@@ -1,0 +1,835 @@
+[
+  {
+    "id": "adirondack-chute",
+    "name": "Adirondack Chute",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "prickly-peak"
+    ]
+  },
+  {
+    "id": "bear-cave",
+    "name": "Bear Cave",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "jolly-roger"
+    ]
+  },
+  {
+    "id": "biennial",
+    "name": "Biennial",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states"
+    ]
+  },
+  {
+    "id": "big-bird",
+    "name": "Big Bird",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "whirlybird"
+    ]
+  },
+  {
+    "id": "big-gully",
+    "name": "Big Gully",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "summit"
+    ]
+  },
+  {
+    "id": "bigger-gully",
+    "name": "Bigger Gully",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "summit"
+    ]
+  },
+  {
+    "id": "bird-glade",
+    "name": "Bird Glade",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "whirlybird"
+    ]
+  },
+  {
+    "id": "blue-bird",
+    "name": "Blue Bird",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "astra-express"
+    ]
+  },
+  {
+    "id": "blue-streak",
+    "name": "Blue Streak",
+    "status": "OPEN",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "snowtooth-express"
+    ]
+  },
+  {
+    "id": "broadway-bowl",
+    "name": "Broadway Bowl",
+    "status": "CLOSED",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "summit"
+    ]
+  },
+  {
+    "id": "buford",
+    "name": "Buford",
+    "status": "CLOSED",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "wallys"
+    ]
+  },
+  {
+    "id": "cape-cod",
+    "name": "Cape Cod",
+    "status": "CLOSED",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "jazz-cat"
+    ]
+  },
+  {
+    "id": "centennial",
+    "name": "Centennial",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states"
+    ]
+  },
+  {
+    "id": "chicken-out-traverse",
+    "name": "Chicken Out Traverse",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "prickly-peak"
+    ]
+  },
+  {
+    "id": "crooked-chute",
+    "name": "Crooked Chute",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "prickly-peak"
+    ]
+  },
+  {
+    "id": "crosscut",
+    "name": "Crosscut",
+    "status": "OPEN",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "neptune-rope"
+    ]
+  },
+  {
+    "id": "dance-fight",
+    "name": "Dance Fight",
+    "status": "OPEN",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "jolly-roger"
+    ]
+  },
+  {
+    "id": "davids-dive",
+    "name": "David's Dive",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "panorama"
+    ]
+  },
+  {
+    "id": "drop-in",
+    "name": "Drop In",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "whirlybird"
+    ]
+  },
+  {
+    "id": "ducks-revenge",
+    "name": "Duck's Revenge",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "astra-express",
+      "jazz-cat"
+    ]
+  },
+  {
+    "id": "early-riser",
+    "name": "Early Riser",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "jolly-roger"
+    ]
+  },
+  {
+    "id": "fish-bowl",
+    "name": "Fish Bowl",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "summit"
+    ]
+  },
+  {
+    "id": "fun-run",
+    "name": "Fun Run",
+    "status": "CLOSED",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "wallys"
+    ]
+  },
+  {
+    "id": "golden-ticket",
+    "name": "Golden Ticket",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "snowtooth-express",
+      "summit"
+    ]
+  },
+  {
+    "id": "goosebumps",
+    "name": "Goosebumps",
+    "status": "OPEN",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "astra-express",
+      "jazz-cat"
+    ]
+  },
+  {
+    "id": "grandma",
+    "name": "Grandma",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "jazz-cat"
+    ]
+  },
+  {
+    "id": "hangar-bowl",
+    "name": "Hangar Bowl",
+    "status": "CLOSED",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "summit"
+    ]
+  },
+  {
+    "id": "head-chutes-gate-a",
+    "name": "Head Chutes Gate A",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states"
+    ]
+  },
+  {
+    "id": "head-chutes-gate-b",
+    "name": "Head Chutes Gate B",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states"
+    ]
+  },
+  {
+    "id": "head-chutes-gate-c",
+    "name": "Head Chutes Gate C",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states"
+    ]
+  },
+  {
+    "id": "hemmed-slacks",
+    "name": "Hemmed Slacks",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "panorama"
+    ]
+  },
+  {
+    "id": "home-run",
+    "name": "Home Run",
+    "status": "OPEN",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "neptune-rope"
+    ]
+  },
+  {
+    "id": "hoya-saxa",
+    "name": "Hoya Saxa",
+    "status": "OPEN",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "snowtooth-express"
+    ]
+  },
+  {
+    "id": "humpty-dumpty",
+    "name": "Humpty Dumpty",
+    "status": "CLOSED",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "jolly-roger"
+    ]
+  },
+  {
+    "id": "ice-streak",
+    "name": "Ice Streak",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "astra-express"
+    ]
+  },
+  {
+    "id": "magma-chute",
+    "name": "Magma Chute",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "prickly-peak"
+    ]
+  },
+  {
+    "id": "marks-chute",
+    "name": "Mark's Chute",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "prickly-peak"
+    ]
+  },
+  {
+    "id": "meatball",
+    "name": "Meatball",
+    "status": "OPEN",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "jolly-roger"
+    ]
+  },
+  {
+    "id": "meow-face",
+    "name": "Meow Face",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "snowtooth-express"
+    ]
+  },
+  {
+    "id": "michigan-ave",
+    "name": "Michigan Ave",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "snowtooth-express"
+    ]
+  },
+  {
+    "id": "millenial",
+    "name": "Millenial",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states"
+    ]
+  },
+  {
+    "id": "mosh-pit",
+    "name": "Mosh Pit",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "whirlybird"
+    ]
+  },
+  {
+    "id": "mountain-run",
+    "name": "Mountain Run",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "panorama"
+    ]
+  },
+  {
+    "id": "ocean-breeze",
+    "name": "Ocean Breeze",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": true,
+    "night": true,
+    "liftIds": [
+      "panorama"
+    ]
+  },
+  {
+    "id": "old-witch",
+    "name": "Old Witch",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "jazz-cat"
+    ]
+  },
+  {
+    "id": "omega-chute",
+    "name": "Omega Chute",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "prickly-peak"
+    ]
+  },
+  {
+    "id": "owl-glade",
+    "name": "Owl Glade",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "whirlybird"
+    ]
+  },
+  {
+    "id": "parachute",
+    "name": "Parachute",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "astra-express"
+    ]
+  },
+  {
+    "id": "parker-downhill",
+    "name": "Parker Downhill",
+    "status": "OPEN",
+    "difficulty": "advanced",
+    "groomed": true,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "snowtooth-express"
+    ]
+  },
+  {
+    "id": "peacock",
+    "name": "Peacock",
+    "status": "CLOSED",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "wallys"
+    ]
+  },
+  {
+    "id": "quarry-chute",
+    "name": "Quarry Chute",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "panorama"
+    ]
+  },
+  {
+    "id": "richards-return",
+    "name": "Richard's Return",
+    "status": "CLOSED",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states",
+      "whirlybird"
+    ]
+  },
+  {
+    "id": "river-run",
+    "name": "River Run",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "jazz-cat"
+    ]
+  },
+  {
+    "id": "roller-park",
+    "name": "Roller Park",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "whirlybird"
+    ]
+  },
+  {
+    "id": "saddleback-chute",
+    "name": "Saddleback Chute",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "prickly-peak"
+    ]
+  },
+  {
+    "id": "searcher",
+    "name": "Searcher",
+    "status": "CLOSED",
+    "difficulty": "intermediate",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states"
+    ]
+  },
+  {
+    "id": "slippy-stream",
+    "name": "Slippy Stream",
+    "status": "CLOSED",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "wallys"
+    ]
+  },
+  {
+    "id": "sneaky-pete",
+    "name": "Sneaky Pete",
+    "status": "OPEN",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "jolly-roger"
+    ]
+  },
+  {
+    "id": "songstress",
+    "name": "Songstress",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "panorama"
+    ]
+  },
+  {
+    "id": "stump-alley",
+    "name": "Stump Alley",
+    "status": "CLOSED",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": true,
+    "night": true,
+    "liftIds": [
+      "wallys"
+    ]
+  },
+  {
+    "id": "summit-bowl",
+    "name": "Summit Bowl",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "summit"
+    ]
+  },
+  {
+    "id": "summit-saunter",
+    "name": "Summit Saunter",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "panorama"
+    ]
+  },
+  {
+    "id": "sunset",
+    "name": "Sunset",
+    "status": "OPEN",
+    "difficulty": "intermediate",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "jolly-roger",
+      "panorama"
+    ]
+  },
+  {
+    "id": "sweet-treat",
+    "name": "Sweet Treat",
+    "status": "CLOSED",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": true,
+    "liftIds": [
+      "wallys"
+    ]
+  },
+  {
+    "id": "the-terrible-chute",
+    "name": "The Terrible Chute",
+    "status": "OPEN",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "prickly-peak"
+    ]
+  },
+  {
+    "id": "whippersnapper-ridge",
+    "name": "Whippersnapper Ridge",
+    "status": "CLOSED",
+    "difficulty": "expert",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "whirlybird"
+    ]
+  },
+  {
+    "id": "white-lightning",
+    "name": "White Lightning",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": true,
+    "night": false,
+    "liftIds": [
+      "western-states"
+    ]
+  },
+  {
+    "id": "wiggle-waggle",
+    "name": "Wiggle Waggle",
+    "status": "OPEN",
+    "difficulty": "beginner",
+    "groomed": true,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "snowtooth-express"
+    ]
+  },
+  {
+    "id": "wild-child",
+    "name": "Wild Child",
+    "status": "CLOSED",
+    "difficulty": "advanced",
+    "groomed": false,
+    "trees": false,
+    "night": false,
+    "liftIds": [
+      "jazz-cat"
+    ]
+  }
+]

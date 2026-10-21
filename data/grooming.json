@@ -1,0 +1,166 @@
+{
+  "date": "2026-01-15",
+  "report": [
+    {
+      "trailId": "bear-cave",
+      "trailName": "Bear Cave",
+      "groomedAt": "2026-01-15T07:15:00Z",
+      "groomer": "Winch Cat",
+      "surface": "packed powder"
+    },
+    {
+      "trailId": "blue-bird",
+      "trailName": "Blue Bird",
+      "groomedAt": "2026-01-15T05:00:00Z",
+      "groomer": "Snowcat 1",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "buford",
+      "trailName": "Buford",
+      "groomedAt": "2026-01-15T09:00:00Z",
+      "groomer": "Snowcat 2",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "chicken-out-traverse",
+      "trailName": "Chicken Out Traverse",
+      "groomedAt": "2026-01-15T05:45:00Z",
+      "groomer": "Winch Cat",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "crosscut",
+      "trailName": "Crosscut",
+      "groomedAt": "2026-01-15T06:00:00Z",
+      "groomer": "Winch Cat",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "dance-fight",
+      "trailName": "Dance Fight",
+      "groomedAt": "2026-01-15T11:00:00Z",
+      "groomer": "Snowcat 2",
+      "surface": "packed powder"
+    },
+    {
+      "trailId": "early-riser",
+      "trailName": "Early Riser",
+      "groomedAt": "2026-01-15T10:00:00Z",
+      "groomer": "Winch Cat",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "fun-run",
+      "trailName": "Fun Run",
+      "groomedAt": "2026-01-15T06:00:00Z",
+      "groomer": "Snowcat 2",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "home-run",
+      "trailName": "Home Run",
+      "groomedAt": "2026-01-15T08:15:00Z",
+      "groomer": "Snowcat 1",
+      "surface": "packed powder"
+    },
+    {
+      "trailId": "meatball",
+      "trailName": "Meatball",
+      "groomedAt": "2026-01-15T07:15:00Z",
+      "groomer": "Snowcat 1",
+      "surface": "packed powder"
+    },
+    {
+      "trailId": "meow-face",
+      "trailName": "Meow Face",
+      "groomedAt": "2026-01-15T09:15:00Z",
+      "groomer": "Snowcat 3",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "michigan-ave",
+      "trailName": "Michigan Ave",
+      "groomedAt": "2026-01-15T09:00:00Z",
+      "groomer": "Snowcat 1",
+      "surface": "packed powder"
+    },
+    {
+      "trailId": "mountain-run",
+      "trailName": "Mountain Run",
+      "groomedAt": "2026-01-15T06:45:00Z",
+      "groomer": "Winch Cat",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "parker-downhill",
+      "trailName": "Parker Downhill",
+      "groomedAt": "2026-01-15T08:45:00Z",
+      "groomer": "Snowcat 3",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "peacock",
+      "trailName": "Peacock",
+      "groomedAt": "2026-01-15T06:15:00Z",
+      "groomer": "Snowcat 2",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "richards-return",
+      "trailName": "Richard's Return",
+      "groomedAt": "2026-01-15T09:30:00Z",
+      "groomer": "Winch Cat",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "slippy-stream",
+      "trailName": "Slippy Stream",
+      "groomedAt": "2026-01-15T10:45:00Z",
+      "groomer": "Snowcat 3",
+      "surface": "packed powder"
+    },
+    {
+      "trailId": "sneaky-pete",
+      "trailName": "Sneaky Pete",
+      "groomedAt": "2026-01-15T05:00:00Z",
+      "groomer": "Winch Cat",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "stump-alley",
+      "trailName": "Stump Alley",
+      "groomedAt": "2026-01-15T11:30:00Z",
+      "groomer": "Snowcat 2",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "summit-saunter",
+      "trailName": "Summit Saunter",
+      "groomedAt": "2026-01-15T08:00:00Z",
+      "groomer": "Snowcat 1",
+      "surface": "packed powder"
+    },
+    {
+      "trailId": "sunset",
+      "trailName": "Sunset",
+      "groomedAt": "2026-01-15T09:30:00Z",
+      "groomer": "Snowcat 3",
+      "surface": "packed powder"
+    },
+    {
+      "trailId": "sweet-treat",
+      "trailName": "Sweet Treat",
+      "groomedAt": "2026-01-15T07:45:00Z",
+      "groomer": "Winch Cat",
+      "surface": "corduroy"
+    },
+    {
+      "trailId": "wiggle-waggle",
+      "trailName": "Wiggle Waggle",
+      "groomedAt": "2026-01-15T11:00:00Z",
+      "groomer": "Snowcat 3",
+      "surface": "corduroy"
+    }
+  ]
+}
