@@ -21,7 +21,7 @@ Each lift includes the trails it serves.
 
 ## Workshop
 
-This repo is used in a 15-minute session on teaching Cursor how your team works with project rules. The lab is in `handout.md`.
+A 15-minute session on teaching Cursor how your team works. Materials live in `workshop/`.
 
 | Branch | What's in it |
 | --- | --- |
