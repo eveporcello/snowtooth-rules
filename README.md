@@ -21,12 +21,14 @@ Each lift includes the trails it serves.
 
 ## Workshop
 
-A 15-minute session on teaching Cursor how your team works. Materials live in `workshop/`.
+15 minutes. Teach Cursor how your team works.
 
-| Branch | What's in it |
+| Branch | What you get |
 | --- | --- |
-| `main` | Where you start |
-| `checkpoint` | After the demo |
-| `complete` | After the lab |
+| `main` | Start here. One lift board. No project rules yet. |
+| `checkpoint` | Mid-point. Data rule, trails panel, grooming report. |
+| `complete` | Done. Copy rule and the Open Runs panel. |
 
 Fell behind? `git stash && git checkout checkpoint`
+
+Facilitator notes, deck, and handout live in `workshop/`.
