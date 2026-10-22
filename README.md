@@ -2,7 +2,29 @@
 
 The board guests see on the TVs in the lodge and on their phones.
 
-## Run it
+## Workshop
+
+15 minutes. Teach Cursor how your team works.
+
+Clone the repo and open the folder in Cursor:
+
+```
+git clone https://github.com/eveporcello/snowtooth-rules.git
+```
+
+Then follow `workshop/handout.md`. You don't need to run the app.
+
+| Branch | What you get |
+| --- | --- |
+| `main` | Start here. One lift board. No project rules yet. |
+| `checkpoint` | Mid-point. Data rule, trails panel, grooming report. |
+| `complete` | Done. Copy rule and the Open Runs panel. |
+
+Fell behind? `git stash && git checkout checkpoint`
+
+Facilitator notes, deck, and handout live in `workshop/`.
+
+## Run it (optional)
 
 ```
 npm install
@@ -18,17 +40,3 @@ https://snowtooth-api-rest.fly.dev/lifts
 ```
 
 Each lift includes the trails it serves.
-
-## Workshop
-
-15 minutes. Teach Cursor how your team works.
-
-| Branch | What you get |
-| --- | --- |
-| `main` | Start here. One lift board. No project rules yet. |
-| `checkpoint` | Mid-point. Data rule, trails panel, grooming report. |
-| `complete` | Done. Copy rule and the Open Runs panel. |
-
-Fell behind? `git stash && git checkout checkpoint`
-
-Facilitator notes, deck, and handout live in `workshop/`.
