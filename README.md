@@ -12,17 +12,15 @@ Clone the repo and open the folder in Cursor:
 git clone https://github.com/eveporcello/snowtooth-rules.git
 ```
 
-Then follow `workshop/handout.md`. You don't need to run the app.
+Then follow the handout your instructor shares in chat. You don't need to run the app.
 
 | Branch | What you get |
 | --- | --- |
 | `main` | Start here. One lift board. No project rules yet. |
-| `checkpoint` | Mid-point. Data rule, trails panel, grooming report. |
-| `complete` | Done. Copy rule and the Open Runs panel. |
+| `checkpoint` | Mid-point. Pick up here for Part 2. |
+| `complete` | The finished board, to compare with your work. |
 
 Fell behind? `git stash && git checkout checkpoint`
-
-Facilitator notes, deck, and handout live in `workshop/`.
 
 ## Run it (optional)
 
