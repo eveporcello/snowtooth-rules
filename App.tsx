@@ -1,4 +1,5 @@
 import { LiftBoard } from "@/components/LiftBoard";
+import { OpenRunsPanel } from "@/components/OpenRunsPanel";
 
 export default function App() {
   return (
@@ -6,6 +7,7 @@ export default function App() {
       <h1>Snowtooth Mountain</h1>
       <div className="grid">
         <LiftBoard />
+        <OpenRunsPanel />
       </div>
     </main>
   );

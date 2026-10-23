@@ -1,0 +1,14 @@
+---
+description: Words and status styling for anything a guest sees on the lift board
+alwaysApply: true
+---
+
+Guests call them **runs**, never "trails." Use "run" in every heading, label, and message a guest can read.
+Code can keep the word `trail` (types, variables, `getTrails()`); only the visible text changes.
+
+Every lift or run status renders with `<StatusBadge status={...} />`. Never hand-style a status span.
+
+Do:    <h2>Open Runs</h2> ... <StatusBadge status={run.status} />
+Don't: <h2>Open Trails</h2> ... <span style={{ color: "green" }}>{trail.status}</span>
+
+See @components/StatusBadge.tsx.
