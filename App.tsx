@@ -1,5 +1,6 @@
 import { LiftBoard } from "@/components/LiftBoard";
 import { OpenRunsPanel } from "@/components/OpenRunsPanel";
+import { RunsPanel } from "@/components/RunsPanel";
 
 export default function App() {
   return (
@@ -8,6 +9,7 @@ export default function App() {
       <div className="grid">
         <LiftBoard />
         <OpenRunsPanel />
+        <RunsPanel />
       </div>
     </main>
   );

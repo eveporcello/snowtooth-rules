@@ -1,0 +1,12 @@
+---
+description: How to show run difficulty to guests
+alwaysApply: true
+---
+
+Guests read difficulty from the trail map symbols, not words. Show every difficulty with `<DifficultyIcon difficulty={...} />`: green circle, blue square, black diamond, double black diamond.
+Never print "beginner," "intermediate," "advanced," or "expert" where a guest can see it.
+
+Do:    <DifficultyIcon difficulty={run.difficulty} />
+Don't: <span>{formatDifficulty(trail.difficulty)}</span>
+
+See @components/DifficultyIcon.tsx.
