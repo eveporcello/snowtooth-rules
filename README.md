@@ -17,10 +17,10 @@ Then follow the handout your instructor shares in chat. You don't need to run th
 | Branch | What you get |
 | --- | --- |
 | `main` | Start here. One lift board. No project rules yet. |
-| `checkpoint` | Mid-point. Pick up here for Part 2. |
-| `complete` | The finished board, to compare with your work. |
+| `checkpoint` | Part 1 is done. Pick up here for the challenge. |
+| `complete` | One possible challenge answer, to compare with yours. |
 
-Fell behind? `git stash && git checkout checkpoint`
+Fell behind? `git stash -u && git checkout checkpoint`
 
 ## Run it (optional)
 
